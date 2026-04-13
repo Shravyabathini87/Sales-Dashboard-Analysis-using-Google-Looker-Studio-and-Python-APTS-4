@@ -1,0 +1,2 @@
+# Sales-Dashboard-Analysis-using-Google-Looker-Studio-and-Python-APTS-4
+This project analyzes retail sales data to identify key business insights using Python and data visualization. An interactive dashboard built in Google Looker Studio highlights regional sales performance, category profitability, and sales trends. Hypothesis testing is used to validate insights and support data-driven business decisions.
